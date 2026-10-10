@@ -1,6 +1,7 @@
 # NIFTY AI — Stock Price Prediction Using Machine Learning
 
-[![Vercel Deployment](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-00E5FF?style=for-the-badge&logo=vercel)](https://frontend-mu-orcin-48.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-white?style=for-the-badge&logo=github)](https://github.com/nnmixx/nifty-ai-stock-prediction)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
