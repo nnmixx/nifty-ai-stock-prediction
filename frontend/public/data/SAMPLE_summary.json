@@ -1,0 +1,33 @@
+{
+  "index_symbol": "SAMPLE",
+  "index_name": "Sample Stock Demo (60 Days)",
+  "currency": "USD",
+  "raw_rows": 60,
+  "cleaned_rows": 60,
+  "after_features_rows": 57,
+  "train_rows": 45,
+  "test_rows": 12,
+  "metrics": {
+    "naive": {
+      "name": "Naive Baseline",
+      "mae": 146.72,
+      "rmse": 172.97,
+      "r2": -1.8981
+    },
+    "linear_regression": {
+      "name": "Linear Regression",
+      "mae": 101.15,
+      "rmse": 127.61,
+      "r2": -0.5772
+    }
+  },
+  "next_day_forecast": {
+    "last_trading_date": "2024-02-29",
+    "last_close": 129.95,
+    "linear_regression": {
+      "predicted_close": 130.99,
+      "predicted_return_pct": 0.8,
+      "direction": "UP"
+    }
+  }
+}

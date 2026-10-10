@@ -1,0 +1,66 @@
+[
+  {
+    "symbol": "NSEI",
+    "name": "Nifty 50 (India)",
+    "last_close": 11278.0,
+    "pct_change": 2.5,
+    "is_positive": true,
+    "is_primary": true
+  },
+  {
+    "symbol": "NYA",
+    "name": "NYSE Composite (USA)",
+    "last_close": 12885.8,
+    "pct_change": -0.58,
+    "is_positive": false,
+    "is_primary": false
+  },
+  {
+    "symbol": "IXIC",
+    "name": "NASDAQ Composite (USA)",
+    "last_close": 11141.56,
+    "pct_change": 37.76,
+    "is_positive": true,
+    "is_primary": false
+  },
+  {
+    "symbol": "GDAXI",
+    "name": "DAX Performance (Germany)",
+    "last_close": 13237.21,
+    "pct_change": 8.27,
+    "is_positive": true,
+    "is_primary": false
+  },
+  {
+    "symbol": "HSI",
+    "name": "Hang Seng Index (Hong Kong)",
+    "last_close": 24468.93,
+    "pct_change": -8.29,
+    "is_positive": false,
+    "is_primary": false
+  },
+  {
+    "symbol": "N225",
+    "name": "Nikkei 225 (Japan)",
+    "last_close": 23032.54,
+    "pct_change": 8.04,
+    "is_positive": true,
+    "is_primary": false
+  },
+  {
+    "symbol": "000001.SS",
+    "name": "SSE Composite (China)",
+    "last_close": 3254.63,
+    "pct_change": 7.6,
+    "is_positive": true,
+    "is_primary": false
+  },
+  {
+    "symbol": "SAMPLE",
+    "name": "Sample Stock Demo (60 Days)",
+    "last_close": 129.95,
+    "pct_change": -56.39,
+    "is_positive": false,
+    "is_primary": false
+  }
+]

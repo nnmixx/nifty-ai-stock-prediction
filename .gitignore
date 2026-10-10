@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.env
+
+# Raw and large datasets (>25MB)
+data/Market.csv
+data/*.zip
+*.zip
+*.tar.gz
+
+# Node.js & Dependencies
+node_modules/
+frontend/node_modules/
+.npm
+frontend/dist/
+dist/
+
+# Environment & Vercel
+.vercel
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
